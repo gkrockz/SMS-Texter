@@ -1,4 +1,4 @@
-### To Send An SMS To Others Through <code>[Twilio](https://www.twilio.com/docs/sms)</code> API , Just Follow The Below Steps :
+### To Send An SMS To Others Through <code>[Twilio](https://www.twilio.com/docs/sms)</code> API , Just Follow These Below Steps :
 
 <br>
 
