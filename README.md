@@ -27,7 +27,7 @@
 
 <br>
 
-<strong> The Final One :</strong>  Run The Program And Guess What, Bingo 🥳. Your Reciver Would Have Got A Message Which Is Similar To The Image Shown Below :
+<strong> The Final One :</strong>  Run The Program And Guess What, Bingo 🥳. Your Reciever Would Have Got A Message Which Is Similar To The Image Shown Below :
 <br>
 <p align="center">
   <img src= "Img/Step5.png" alt="Step5 IMG">
