@@ -9,13 +9,16 @@
 
 <strong> Step-2 : </strong> Once You Have Created An Account, Get Your Free Twilio Phone Number Verified,And Build A Programmable SMS Project.
 <br><br>
+<p align="center">
 <img src= "Img/Step2.png" alt="Step2 IMG" >
+</p>
 
 <strong>Step-3: </strong> Once You Got Your Twilio Number, All You Need To Do Is Just Grab Two Things And Paste It In Your Source File.
    - Find Your <code>ACCOUNT_SID</code> And <code>AUTH_TOKEN</code> From Your Console On Twilio.
  <br>
+ <p align="center">
  <img src= "Img/Step3.png" alt="Step3 IMG" >
-   
+ </p> 
  <br><br>
  
  <strong> Step-3 : </strong> Now Replace The <code>ACCOUNT_SID</code> And <code>AUTH_TOKEN</code> In Your Source Code.
