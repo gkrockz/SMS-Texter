@@ -46,7 +46,7 @@
 <br><br>
  <strong>Dev-Note :</strong> You Might Be Thinking, Why To Do These Many Steps, Instead Of Opening Your SMS App And Send Them Directly(SomeTimes You Need To Pay For It 😋)
  - Well By Doing These, You Can Learn And Evolve As A Good Developer, Which Yields You Something In Return .
- - If You Are Reading This Till Here, I Hope You Are A Good Dev Too 🙂.
+ - And Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
 
 <br>
 
