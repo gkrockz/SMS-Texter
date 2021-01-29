@@ -1,4 +1,4 @@
-### To Send An Programmable SMS To Others Through <code>[Twilio](https://www.twilio.com/docs/sms)</code> API , Follow The Steps Mentioned Below:
+### To Send An Programmable SMS 💻➡✉ To Others Through <code>[Twilio](https://www.twilio.com/docs/sms)</code> API , Follow The Steps Mentioned Below:
 
 <br>
 
@@ -44,7 +44,7 @@
  <strong>Note:</strong> If You Have Followed All These Steps Correctly, Then It Would Have Worked For You As Well.
 
 <br><br>
- <strong>Dev-Note :</strong> You Might Be Thinking, Why To Do These Many Steps, Instead Of Opening Your SMS App And Send Them Directly(SomeTimes You Need To Pay For It 😋)
+ <strong>Dev-Note :</strong>You Might Be Thinking, Why To Do These Many Steps, Instead Of Opening Your SMS App And Send Them Directly(Sometimes You Need To Pay For It 😋)
  - Well By Doing These, You Can Learn And Evolve As A Good Developer, Which Yields You Something In Return .
  - And Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
 
