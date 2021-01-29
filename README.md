@@ -23,7 +23,7 @@
  
  <strong> Step-3 : </strong> Now Replace The <code>ACCOUNT_SID</code> And <code>AUTH_TOKEN</code> In Your Source Code.
  - In This Case I Have Build Programmable SMS Using Java , And I Have Source Code For Python Too In <code>Src</code> Folder.
- - If You Want To Use Some Other Language, Check Out Here 👉🏻 [Source Code](https://www.twilio.com/docs/sms/send-messages#send-an-sms-with-twilios-api)
+ - If You Want To Build This Project Using Some Other Language, Check Out Here 👉🏻 [Source Code](https://www.twilio.com/docs/sms/send-messages#send-an-sms-with-twilios-api)
    
    
 <strong> Step-4 : </strong> Now Enter Your Twilio Number In <code>from</code> Parameter And Your Receiver Number In <code>to</code> Parameter In Your Source Code.
