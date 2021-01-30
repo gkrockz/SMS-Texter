@@ -43,7 +43,7 @@
  <strong>Note:</strong> If You Have Followed All These Steps Correctly, Then It Would Have Worked For You As Well.
 
 <br><br>
- <strong>Warning ⚠:</strong> Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
+ <strong>Warning ⚠: </strong> Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
 
 <br>
 
