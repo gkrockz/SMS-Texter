@@ -41,7 +41,7 @@
 
 
 <br><br>
- <strong>Warning ⚠: </strong> Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
+ <strong>Warning ⚠ : </strong> Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
 
 <br>
 
