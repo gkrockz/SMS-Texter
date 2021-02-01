@@ -39,8 +39,6 @@
 
 <strong>Uses  Of Twilio SMS API : </Strong> <code>[Uses-Of-Twilio-API](https://www.twilio.com/docs/glossary/what-is-sms-api-short-messaging-service#:~:text=A%20SMS%20API%20is%20well,networks%20and%20the%20wider%20web.)</code>
 
-<br>
- <strong>Note:</strong> If You Have Followed All These Steps Correctly, Then It Would Have Worked For You As Well.
 
 <br><br>
  <strong>Warning ⚠: </strong> Don't Use This API To Spam Your Friends, Because They Have Your Identity Verified , So Use It Wisely.
