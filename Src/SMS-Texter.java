@@ -14,7 +14,7 @@ public class SMSTexter
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
         Message message = Message.creator(
                 new com.twilio.type.PhoneNumber("+152607737092"), // Your Twilio Generated Number.
-                new com.twilio.type.PhoneNumber("+918754105798"), // Your Reciever Number.
+                new com.twilio.type.PhoneNumber("+918754105798"), // Reciever Number.
                 "HEEELLLOOOOO")
             .create();
 
