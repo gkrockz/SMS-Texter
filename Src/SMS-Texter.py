@@ -10,5 +10,5 @@ client = Client(account_sid, auth_token)
 message = client.messages.create(
                               body=' I CANT BELIEVE THIS WORKS',
                               from_='+152607737092', 	# Your Twilio Generated Number.
-                              to='+918754105798' 		  # Your Reciever Number.
+                              to='+918754105798' 		  # Reciever Number.
                           )
