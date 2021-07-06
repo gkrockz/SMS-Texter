@@ -9,7 +9,7 @@
 <strong> Step-2: </strong> Once you have created an Account, Get your free Twilio phone number verified, and Build a Programmable SMS Project.
 <br><br>
 <p align="center">
-<img src= "Img/Step-2.png" alt="Step2 IMG" >
+<img src= "Img/Step-2.png" alt="Step2 IMG" height="80%" width="80%" >
 </p>
 
 <br>
